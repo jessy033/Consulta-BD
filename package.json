@@ -1,0 +1,21 @@
+{
+  "name": "consultabd",
+  "version": "1.0.0",
+  "description": "aplicacion bd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "consulta"
+  ],
+  "author": "jessica allende",
+  "license": "ISC",
+  "dependencies": {
+    "angular-classy": "^1.2.4",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-filter": "^5.0.0",
+    "gulp-main-bower-files": "^1.6.2"
+  }
+}
